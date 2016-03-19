@@ -1,0 +1,9 @@
+{
+    "name": "RPSLS-online",
+    "version": "0.0.1",
+    "description": "Rock-paper-scissors-lizard-spock game online",
+    "dependencies": {
+        "socket.io": "~0.9.6",
+        "mime": "~1.2.7"
+    }
+}

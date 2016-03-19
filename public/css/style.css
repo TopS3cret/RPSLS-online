@@ -1,0 +1,38 @@
+.center {
+  text-align: center; }
+
+#rooms, #output {
+  height: 100%; }
+  #rooms ul, #output ul {
+    list-style: none;
+    line-height: 1; }
+
+#rooms {
+  background-color: #eee; }
+  #rooms ul a {
+    width: 100%; }
+    #rooms ul a li {
+      width: calc(100% - 20px);
+      margin: 0px;
+      height: 20px;
+      padding: 10px; }
+      #rooms ul a li:hover {
+        background-color: #f5f5f5; }
+
+#output {
+  padding: 10px;
+  background-color: #ddd; }
+
+#game {
+  margin: 10px 0px;
+  height: 400px; }
+
+#players {
+  font-size: 3rem; }
+  #players #player2 {
+    text-align: right; }
+
+#create-room {
+  margin-top: 20px; }
+
+/*# sourceMappingURL=style.css.map */
